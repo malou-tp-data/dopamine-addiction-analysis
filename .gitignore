@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# OS / éditeurs
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Data (ne pas envoyer les datasets)
+data/*
+!data/.gitkeep
