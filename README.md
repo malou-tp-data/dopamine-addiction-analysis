@@ -84,7 +84,7 @@ This model describes an imbalance between fast, impulsive, reward-driven systems
 The following diagram illustrates the key structures involved in dopaminergic reward signalling, including pathways relevant to cannabis and cocaine:
 
 <p align="center">
-  <img src="figures/dopaminergic_reward_circuit.png" width="800">
+  <img src="figures/dopaminergic_reward_system_horizontal.png" width="800">
 </p>
 
 *Figure X. Conceptual overview of the mesolimbic dopaminergic reward pathway (VTA → NAcc → PFC), including modulation by cannabis and cocaine.*
