@@ -79,7 +79,6 @@ Reward Deficiency Syndrome suggests that some individuals possess chronically re
 This model describes an imbalance between fast, impulsive, reward-driven systems (striatum, dopamine) and slower, reflective, executive control systems (prefrontal cortex). Adolescents and young adults are particularly sensitive to dopaminergic reward cues due to delayed maturation of prefrontal regulation. This framework explains why younger individuals and those high in impulsivity are at greater risk of engaging in substance use, especially for drugs that heavily influence the reward system.
 
 ---
-
 ### Dopaminergic Reward Circuit (Conceptual Diagram)
 
 The following diagram illustrates the key structures involved in dopaminergic reward signalling, including pathways relevant to cannabis and cocaine:
@@ -348,6 +347,7 @@ Fehrman, E., et al. (2017). Drug Consumption (Quantified). UCI Machine Learning 
 Robinson, T. E., & Berridge, K. C. (2008). The Incentive Sensitization Theory of Addiction: Some Current Issues. Philosophical Transactions of the Royal Society B.  
 
 Volkow, N. D., Koob, G. F., & McLellan, A. T. (2016). Neurobiologic Advances from the Brain Disease Model of Addiction. New England Journal of Medicine.  
+
 
 
 
