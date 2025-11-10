@@ -79,15 +79,11 @@ Reward Deficiency Syndrome suggests that some individuals possess chronically re
 This model describes an imbalance between fast, impulsive, reward-driven systems (striatum, dopamine) and slower, reflective, executive control systems (prefrontal cortex). Adolescents and young adults are particularly sensitive to dopaminergic reward cues due to delayed maturation of prefrontal regulation. This framework explains why younger individuals and those high in impulsivity are at greater risk of engaging in substance use, especially for drugs that heavily influence the reward system.
 
 ---
-### Dopaminergic Reward Circuit (Conceptual Diagram)
+## Dopaminergic Reward Pathway
 
-The following diagram illustrates the key structures involved in dopaminergic reward signalling, including pathways relevant to cannabis and cocaine:
+This diagram illustrates the minimal mesocorticolimbic dopamine circuit involved in reward processing and addiction vulnerability.
 
-<p align="center">
-  <img src="figures/dopaminergic_reward_system_horizontal.png" width="800">
-</p>
-
-*Figure X. Conceptual overview of the mesolimbic dopaminergic reward pathway (VTA → NAcc → PFC), including modulation by cannabis and cocaine.*
+![VTA → NAcC → PFC](figures/dopamine_pathway_hybrid_clean.png)
 
 ---
 
