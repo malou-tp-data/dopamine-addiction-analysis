@@ -85,6 +85,7 @@ This diagram illustrates the minimal mesocorticolimbic dopamine circuit involved
 
 ![VTA → NAcC → PFC](figures/dopamine_pathway_hybrid_clean.png)
 
+
 ---
 
 ## 4. Research Question and Hypotheses
