@@ -83,9 +83,32 @@ This model describes an imbalance between fast, impulsive, reward-driven systems
 
 This diagram illustrates the minimal mesocorticolimbic dopamine circuit involved in reward processing and addiction vulnerability.
 
-![VTA → NAcC → PFC](figures/dopamine_pathway_hybrid_clean.png)
+### Mesocorticolimbic Dopaminergic Pathway
 
+Core reward circuit:
 
+VTA → NAcc → PFC
+
+- **VTA (Ventral Tegmental Area)**: origin of dopaminergic neurons  
+- **NAcc (Nucleus Accumbens)**: reward prediction and incentive salience  
+- **PFC (Prefrontal Cortex)**: cognitive control and decision-making
+
+### Functional roles in addiction
+
+| Region | Function | Relevance to addiction |
+|------|------|------|
+| VTA | Source of dopaminergic neurons | Initiates reward signalling |
+| NAcc | Reward prediction / incentive salience | Reinforcement learning |
+| PFC | Cognitive control and decision making | Impulse regulation |
+| Hippocampus | Contextual memory | Environmental cues |
+| Amygdala | Emotional salience | Cue-induced craving |
+
+### Drug mechanisms affecting dopamine
+
+| Drug | Mechanism | Dopamine effect |
+|------|------|------|
+| Cocaine | DAT blockade preventing dopamine reuptake in NAcc | ↑ dopamine |
+| Cannabis | CB1 activation → reduced GABA inhibition in VTA | indirect ↑ dopamine |
 ---
 
 ## 4. Research Question and Hypotheses
@@ -328,7 +351,7 @@ This project demonstrates skills relevant to AI and neurotech, including data pr
 |------|-------------|
 | VTA | Ventral Tegmental Area, origin of dopaminergic reward pathways |
 | NAcc | Nucleus Accumbens, key reward and reinforcement hub |
-| PFC | Prefrontal Cortex, executive control and decision-making region |
+| PFC | Prefrontal Cortex, execustive control and decision-making region |s
 | CB1 | Cannabinoid receptor affecting dopamine release |
 | DAT | Dopamine transporter responsible for dopamine reuptake |
 | Incentive Salience | “Wanting” mechanism driving pursuit of rewards |
