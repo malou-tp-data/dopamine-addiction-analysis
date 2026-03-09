@@ -28,6 +28,8 @@ The dopaminergic system plays a central role in reward processing, motivation, a
 
 ## Key findings
 
+<img src="figures/heatmap_dopamine_addiction.png" width="700">
+
 The main findings of the analysis can be summarized as follows:
 
 - Individuals with higher Dopamine Index values show greater likelihood of experimenting with multiple substances.
