@@ -28,6 +28,8 @@ The dopaminergic system plays a central role in reward processing, motivation, a
 
 ## Key findings
 
+The main findings of the analysis can be summarized as follows:
+
 - Individuals with higher Dopamine Index values show greater likelihood of experimenting with multiple substances.
 - Dopaminergic behavioural traits strongly correlate with cannabis use.
 - Cocaine demonstrates the strongest dopaminergic association across substances.
