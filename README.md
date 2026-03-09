@@ -8,10 +8,30 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ---
+## Project at a glance
+
+**Goal**  
+Investigate how dopaminergic personality traits relate to substance use behaviours and addiction vulnerability.
+
+**Dataset**  
+UCI Drug Consumption Dataset (1,884 participants, 19 substances).
+
+**Methods**  
+Exploratory Data Analysis, demographic comparisons, correlation analysis, and predictive modelling.
+
+**Key question**  
+Do personality traits associated with dopaminergic reward sensitivity predict higher likelihood of substance experimentation and cannabis use?
 
 ## Abstract
 
 The dopaminergic system plays a central role in reward processing, motivation, and addiction vulnerability. This project investigates the relationship between dopaminergic personality traits and substance use behaviours across 19 substances using the *Drug Consumption (Quantified)* dataset. A Dopamine Index was constructed from standardized trait measures (Impulsivity, Sensation Seeking, Neuroticism, Extraversion, and Openness) to estimate individual dopaminergic reactivity. Exploratory, demographic, and predictive analyses were conducted, including a baseline model of cannabis use and a cross-substance dopaminergic comparison. Results indicate that individuals with higher dopaminergic trait expression demonstrate greater substance experimentation and higher likelihood of cannabis use, with cocaine showing an even stronger dopaminergic association. These findings are interpreted in light of three theoretical frameworks: Incentive Sensitization Theory, Reward Deficiency Syndrome, and Dual-System Models of impulsivity and cognitive control.
+
+## Key findings
+
+- Individuals with higher Dopamine Index values show greater likelihood of experimenting with multiple substances.
+- Dopaminergic behavioural traits strongly correlate with cannabis use.
+- Cocaine demonstrates the strongest dopaminergic association across substances.
+- Age negatively correlates with the Dopamine Index, suggesting maturation of cognitive control over reward-driven behaviour.
 
 ---
 
@@ -38,6 +58,18 @@ The dopaminergic system plays a central role in reward processing, motivation, a
 12. Glossary  
 13. References  
 
+---
+
+## How to run the project
+
+To reproduce the analysis locally, follow these steps:
+
+```
+git clone https://github.com/malou-tp-data/dopamine-addiction-analysis.git
+cd dopamine-addiction-analysis
+pip install pandas numpy matplotlib seaborn
+python analysis.py
+```
 ---
 
 ## 1. Introduction
