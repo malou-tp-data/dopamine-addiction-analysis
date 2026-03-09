@@ -28,6 +28,7 @@ The dopaminergic system plays a central role in reward processing, motivation, a
 
 ## Key findings
 
+**Heatmap overview**
 <img src="figures/heatmap_dopamine_addiction.png" width="700">
 
 Heatmap showing correlations between dopaminergic traits and substance use.
