@@ -30,13 +30,14 @@ The dopaminergic system plays a central role in reward processing, motivation, a
 
 <img src="figures/heatmap_dopamine_addiction.png" width="700">
 
+Heatmap showing correlations between dopaminergic traits and substance use.
+
 The main findings of the analysis can be summarized as follows:
 
 - Individuals with higher Dopamine Index values show greater likelihood of experimenting with multiple substances.
 - Dopaminergic behavioural traits strongly correlate with cannabis use.
 - Cocaine demonstrates the strongest dopaminergic association across substances.
 - Age negatively correlates with the Dopamine Index, suggesting maturation of cognitive control over reward-driven behaviour.
-
 ---
 
 ## Table of Contents
