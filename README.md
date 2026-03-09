@@ -81,7 +81,7 @@ This model describes an imbalance between fast, impulsive, reward-driven systems
 ---
 ## Dopaminergic Reward Pathway
 
-Overview of the mesocorticolimbic dopamine 
+OOverview of the mesocorticolimbic dopamine circuit involved in reward processing and addiction vulnerability.
 
 ### Mesocorticolimbic Dopaminergic Pathway
 
