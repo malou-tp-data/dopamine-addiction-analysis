@@ -347,7 +347,7 @@ Cannabis reflects behavioural dopaminergic vulnerability, while cocaine reflects
 ---
 
 ## 9. Discussion
-
+<p align="justify">
 These findings align with major addiction theories:
 
 - **Incentive Sensitization Theory:** Individuals with stronger dopaminergic traits may attribute higher incentive salience to drugs, increasing compulsive drug seeking.  
@@ -355,6 +355,7 @@ These findings align with major addiction theories:
 - **Dual-System Model:** Age effects support developmental shifts toward prefrontal control reducing reward driven behaviour.
 
 Collectively, the results suggest that cannabis use can be considered an early behavioural marker of dopaminergic vulnerability, while cocaine represents a more advanced stage of dopaminergic involvement due to its direct biochemical effects.
+</p>
 
 ---
 
@@ -408,7 +409,7 @@ This project demonstrates skills relevant to AI and neurotech, including data pr
 ---
 
 ## 14. References
-
+<p align="justify">
 Blum, K., et al. (1996). Reward Deficiency Syndrome: A Biogenetic Model for the Diagnosis and Treatment of Impulsive, Addictive and Compulsive Behaviors. Journal of Psychoactive Drugs.  
 
 Fehrman, E., et al. (2017). Drug Consumption (Quantified). UCI Machine Learning Repository.  
@@ -416,7 +417,7 @@ Fehrman, E., et al. (2017). Drug Consumption (Quantified). UCI Machine Learning 
 Robinson, T. E., & Berridge, K. C. (2008). The Incentive Sensitization Theory of Addiction: Some Current Issues. Philosophical Transactions of the Royal Society B.  
 
 Volkow, N. D., Koob, G. F., & McLellan, A. T. (2016). Neurobiologic Advances from the Brain Disease Model of Addiction. New England Journal of Medicine.  
-
+</p>
 
 
 
