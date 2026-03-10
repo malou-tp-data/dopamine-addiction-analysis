@@ -360,7 +360,7 @@ Collectively, the results suggest that cannabis use can be considered an early b
 ---
 
 ## 10. Relevance for AI and Neurotechnology Careers
-
+<p align="justify">
 The dopaminergic system provides a biological foundation for **reinforcement learning** in artificial intelligence. Understanding dopaminergic reward processing supports:
 
 - Development of biologically inspired AI models  
@@ -374,6 +374,7 @@ In neurotechnology, dopamine related biomarkers are central to:
 - Neuropsychiatric monitoring and intervention  
 
 This project demonstrates skills relevant to AI and neurotech, including data preprocessing, behavioural modelling, hypothesis testing, and integration of neuroscience with computational methods.
+</p>
 
 ---
 
@@ -401,7 +402,7 @@ This project demonstrates skills relevant to AI and neurotech, including data pr
 |------|-------------|
 | VTA | Ventral Tegmental Area, origin of dopaminergic reward pathways |
 | NAcc | Nucleus Accumbens, key reward and reinforcement hub |
-| PFC | Prefrontal Cortex, execustive control and decision making region |s
+| PFC | Prefrontal Cortex, execustive control and decision making region |
 | CB1 | Cannabinoid receptor affecting dopamine release |
 | DAT | Dopamine transporter responsible for dopamine reuptake |
 | Incentive Salience | “Wanting” mechanism driving pursuit of rewards |
