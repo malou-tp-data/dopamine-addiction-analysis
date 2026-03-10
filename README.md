@@ -80,7 +80,7 @@ python analysis.py
 
 ## 1. Introduction
 
-Dopamine is critically involved in reward processing, reinforcement learning, and the attribution of motivational value to stimuli. Interindividual differences in dopaminergic functioning have been associated with behavioural traits such as impulsivity, sensation seeking, and reward sensitivity — all of which contribute to vulnerability to substance use and addiction. Understanding how dopaminergic personality traits relate to drug-taking behaviours can inform early prevention, risk profiling, and neuropsychological models of addiction.
+Dopamine is critically involved in reward processing, reinforcement learning, and the attribution of motivational value to stimuli. Interindividual differences in dopaminergic functioning have been associated with behavioural traits such as impulsivity, sensation seeking, and reward sensitivity all of which contribute to vulnerability to substance use and addiction. Understanding how dopaminergic personality traits relate to drug-taking behaviours can inform early prevention, risk profiling, and neuropsychological models of addiction.
 
 This project aims to quantify dopaminergic trait expression and examine its relationship with substance use patterns in a non-clinical population sample. Both exploratory and predictive approaches were applied to assess whether individuals exhibiting dopaminergic behavioural phenotypes are more prone to experimenting with, or regularly using, psychoactive substances.
 
@@ -96,7 +96,7 @@ This project is relevant because:
 - It uses a behavioural proxy (Dopamine Index) that can be applied at scale for early-stage screening, unlike neuroimaging approaches.  
 - It includes a multi-substance comparison, highlighting both behavioural and pharmacological differences in dopaminergic involvement.  
 - It contributes to the growing fields of computational psychiatry and neuroscience-informed data analysis.  
-- It provides a framework that can support prevention-focused mental health strategies and early identification of at-risk individuals.
+- It provides a framework that can support prevention focused mental health strategies and early identification of at risk individuals.
 
 ---
 
@@ -106,15 +106,15 @@ Addiction has been consistently linked to dysregulation of dopaminergic circuits
 
 ### 3.1 Incentive Sensitization Theory (Robinson & Berridge)
 
-This theory proposes that repeated drug exposure sensitizes mesolimbic dopamine pathways, heightening *“wanting”* (the motivational drive to seek the drug) even when *“liking”* (subjective pleasure) declines. Dopamine is therefore primarily implicated in incentive salience attribution rather than hedonic pleasure. Individuals with higher dopaminergic reactivity may be more susceptible to sensitization, resulting in strengthened drug-seeking behaviours over time.
+This theory proposes that repeated drug exposure sensitizes mesolimbic dopamine pathways, heightening *“wanting”* (the motivational drive to seek the drug) even when *“liking”* (subjective pleasure) declines. Dopamine is therefore primarily implicated in incentive salience attribution rather than hedonic pleasure. Individuals with higher dopaminergic reactivity may be more susceptible to sensitization, resulting in strengthened drug seeking behaviours over time.
 
 ### 3.2 Reward Deficiency Syndrome (Blum et al.)
 
-Reward Deficiency Syndrome suggests that some individuals possess chronically reduced dopaminergic activity or receptor availability, leading to diminished reward from natural stimuli. Such individuals may engage in external dopamine-enhancing behaviours, including substance use, as compensatory stimulation. Impulsivity and sensation seeking are considered behavioural markers of this vulnerability, reflecting attempts to overcome an underlying reward deficit.
+Reward Deficiency Syndrome suggests that some individuals possess chronically reduced dopaminergic activity or receptor availability, leading to diminished reward from natural stimuli. Such individuals may engage in external dopamine enhancing behaviours, including substance use, as compensatory stimulation. Impulsivity and sensation seeking are considered behavioural markers of this vulnerability, reflecting attempts to overcome an underlying reward deficit.
 
 ### 3.3 Dual-System Model: Impulsivity vs Cognitive Control
 
-This model describes an imbalance between fast, impulsive, reward-driven systems (striatum, dopamine) and slower, reflective, executive control systems (prefrontal cortex). Adolescents and young adults are particularly sensitive to dopaminergic reward cues due to delayed maturation of prefrontal regulation. This framework explains why younger individuals and those high in impulsivity are at greater risk of engaging in substance use, especially for drugs that heavily influence the reward system.
+This model describes an imbalance between fast, impulsive, reward driven systems (striatum, dopamine) and slower, reflective, executive control systems (prefrontal cortex). Adolescents and young adults are particularly sensitive to dopaminergic reward cues due to delayed maturation of prefrontal regulation. This framework explains why younger individuals and those high in impulsivity are at greater risk of engaging in substance use, especially for drugs that heavily influence the reward system.
 
 ---
 ## Dopaminergic Reward Pathway
@@ -139,7 +139,7 @@ VTA → NAcc → PFC
 | NAcc | Reward prediction / incentive salience | Reinforcement learning |
 | PFC | Cognitive control and decision making | Impulse regulation |
 | Hippocampus | Contextual memory | Environmental cues |
-| Amygdala | Emotional salience | Cue-induced craving |
+| Amygdala | Emotional salience | Cue induced craving |
 
 ### Drug mechanisms affecting dopamine
 
@@ -175,7 +175,7 @@ To what extent do dopaminergic personality traits predict substance use behaviou
 **Sample Size:** 1,884 participants  
 **Variables:** 32 total variables
 
-The dataset includes demographic information, personality traits, impulsivity and sensation seeking scores, as well as self-reported lifetime consumption of 19 substances.
+The dataset includes demographic information, personality traits, impulsivity and sensation seeking scores, as well as self reported lifetime consumption of 19 substances.
 
 ### Key Variables
 
@@ -184,7 +184,7 @@ The dataset includes demographic information, personality traits, impulsivity an
 | Demographics | Age, Gender | Age groups and biological sex |
 | Personality (Big Five) | Nscore, Escore, Oscore, AScore, Cscore | Standardized Big Five traits |
 | Dopaminergic Traits | Impulsive, SS, Nscore, Escore, Oscore | Used to compute the Dopamine Index |
-| Substance Use | 19 substances | Recoded into binary (user vs non-user) |
+| Substance Use | 19 substances | Recoded into binary (user vs non user) |
 
 ### Dopamine Index (Engineered Variable)
 
@@ -196,7 +196,7 @@ A composite **Dopamine Index** was constructed using z-scored values of:
 - Extraversion (Escore)  
 - Openness (Oscore)  
 
-This index represents a behavioural proxy of dopaminergic sensitivity aligned with prior research linking these traits to reward-seeking tendencies and dopaminergic functioning.
+This index represents a behavioural proxy of dopaminergic sensitivity aligned with prior research linking these traits to reward seeking tendencies and dopaminergic functioning.
 
 ---
 
@@ -236,7 +236,7 @@ To ensure transparent modelling, the predictive model was implemented without ma
 Strong positive associations emerged between the Dopamine Index, Impulsivity, Sensation Seeking, and use of several psychoactive substances, particularly cannabis, LSD, cocaine, and alcohol.
 
 **Interpretation:**  
-Individuals with stronger dopaminergic expression tend to experiment with a wider range of substances. This supports models linking dopamine to reward sensitivity and novelty-seeking behaviours.
+Individuals with stronger dopaminergic expression tend to experiment with a wider range of substances. This supports models linking dopamine to reward sensitivity and novelty seeking behaviours.
 
 ---
 
@@ -244,10 +244,10 @@ Individuals with stronger dopaminergic expression tend to experiment with a wide
 
 <img src="figures/boxplot_dopamine_cannabis.png" width="600">
 
-Cannabis users display higher Dopamine Index values compared to non-users.
+Cannabis users display higher Dopamine Index values compared to non users.
 
 **Interpretation:**  
-Cannabis use appears associated with dopaminergic behavioural profiles. This is consistent with cannabis-induced CB1 receptor activation modulating dopamine in the mesolimbic pathway.
+Cannabis use appears associated with dopaminergic behavioural profiles. This is consistent with cannabis induced CB1 receptor activation modulating dopamine in the mesolimbic pathway.
 
 ---
 
@@ -280,7 +280,7 @@ Dopaminergic expression decreases with age, consistent with known reductions in 
 Males showed slightly higher Dopamine Index values than females, though variability was high.
 
 **Interpretation:**  
-Gender differences are present but modest, suggesting that dopaminergic traits are not sex-specific determinants of substance use vulnerability.
+Gender differences are present but modest, suggesting that dopaminergic traits are not sex specific determinants of substance use vulnerability.
 
 ---
 
@@ -293,7 +293,7 @@ Gender differences are present but modest, suggesting that dopaminergic traits a
 | Variable | Interpretation |
 |----------|----------------|
 | Dopamine Index | Higher dopaminergic traits increase likelihood of cannabis use |
-| Impulsivity | Lower inhibitory control increases reward-seeking |
+| Impulsivity | Lower inhibitory control increases reward seeking |
 | Sensation Seeking | Preference for novelty and stimulation drives experimentation |
 
 Age showed a negative effect, confirming younger individuals are more vulnerable.
@@ -322,7 +322,7 @@ Cannabis was selected as the primary target substance due to:
 
 <img src="figures/dopamine_multi_substance.png" width="600">
 
-A multi-substance comparison showed that while cannabis has a strong dopaminergic association, cocaine ranked even higher.
+A multi substance comparison showed that while cannabis has a strong dopaminergic association, cocaine ranked even higher.
 
 | Substance | Dopaminergic Coefficient | Interpretation |
 |-----------|---------------------------|----------------|
@@ -339,9 +339,9 @@ Cannabis reflects behavioural dopaminergic vulnerability, while cocaine reflects
 
 These findings align with major addiction theories:
 
-- **Incentive Sensitization Theory:** Individuals with stronger dopaminergic traits may attribute higher incentive salience to drugs, increasing compulsive drug-seeking.  
+- **Incentive Sensitization Theory:** Individuals with stronger dopaminergic traits may attribute higher incentive salience to drugs, increasing compulsive drug seeking.  
 - **Reward Deficiency Syndrome:** Lower baseline dopaminergic activity may lead individuals to seek external stimulation through substances.  
-- **Dual-System Model:** Age effects support developmental shifts toward prefrontal control reducing reward-driven behaviour.
+- **Dual-System Model:** Age effects support developmental shifts toward prefrontal control reducing reward driven behaviour.
 
 Collectively, the results suggest that cannabis use can be considered an early behavioural marker of dopaminergic vulnerability, while cocaine represents a more advanced stage of dopaminergic involvement due to its direct biochemical effects.
 
@@ -352,12 +352,12 @@ Collectively, the results suggest that cannabis use can be considered an early b
 The dopaminergic system provides a biological foundation for **reinforcement learning** in artificial intelligence. Understanding dopaminergic reward processing supports:
 
 - Development of biologically inspired AI models  
-- Improved reward-based learning algorithms  
+- Improved reward based learning algorithms  
 - Insights for adaptive and autonomous systems  
 
-In neurotechnology, dopamine-related biomarkers are central to:
+In neurotechnology, dopamine related biomarkers are central to:
 
-- Closed-loop neuromodulation  
+- Closed loop neuromodulation  
 - Brain–machine interface adaptation  
 - Neuropsychiatric monitoring and intervention  
 
@@ -367,7 +367,7 @@ This project demonstrates skills relevant to AI and neurotech, including data pr
 
 ## 11. Limitations
 
-- Self-reported and cross-sectional dataset  
+- Self reported and cross sectional dataset  
 - Substance use measured without frequency or duration  
 - Dopamine Index is a behavioural proxy, not a direct biomarker  
 - Predictive model does not incorporate environmental or genetic factors  
@@ -378,7 +378,7 @@ This project demonstrates skills relevant to AI and neurotech, including data pr
 
 - Apply logistic regression and machine learning models  
 - Assess differences between drug classes (stimulants, depressants, hallucinogens)  
-- Integrate executive function or delay-discounting variables  
+- Integrate executive function or delay discounting variables  
 - Validate the Dopamine Index against neurobiological markers (PET, fMRI, DRD2 polymorphisms)  
 
 ---
@@ -389,7 +389,7 @@ This project demonstrates skills relevant to AI and neurotech, including data pr
 |------|-------------|
 | VTA | Ventral Tegmental Area, origin of dopaminergic reward pathways |
 | NAcc | Nucleus Accumbens, key reward and reinforcement hub |
-| PFC | Prefrontal Cortex, execustive control and decision-making region |s
+| PFC | Prefrontal Cortex, execustive control and decision making region |s
 | CB1 | Cannabinoid receptor affecting dopamine release |
 | DAT | Dopamine transporter responsible for dopamine reuptake |
 | Incentive Salience | “Wanting” mechanism driving pursuit of rewards |
