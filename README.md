@@ -110,17 +110,20 @@ This project is relevant because:
 
 <p align="justify">
 Addiction has been consistently linked to dysregulation of dopaminergic circuits, particularly those connecting the **ventral tegmental area (VTA)**, **nucleus accumbens (NAcc)**, and the **prefrontal cortex (PFC)**. Three major theories provide a conceptual framework for understanding dopamine’s role in addictive processes.
+</p>
 
 ### 3.1 Incentive Sensitization Theory (Robinson & Berridge)
-
+<p align="justify">
 This theory proposes that repeated drug exposure sensitizes mesolimbic dopamine pathways, heightening *“wanting”* (the motivational drive to seek the drug) even when *“liking”* (subjective pleasure) declines. Dopamine is therefore primarily implicated in incentive salience attribution rather than hedonic pleasure. Individuals with higher dopaminergic reactivity may be more susceptible to sensitization, resulting in strengthened drug seeking behaviours over time.
+</p>
 
 ### 3.2 Reward Deficiency Syndrome (Blum et al.)
-
+<p align="justify">
 Reward Deficiency Syndrome suggests that some individuals possess chronically reduced dopaminergic activity or receptor availability, leading to diminished reward from natural stimuli. Such individuals may engage in external dopamine enhancing behaviours, including substance use, as compensatory stimulation. Impulsivity and sensation seeking are considered behavioural markers of this vulnerability, reflecting attempts to overcome an underlying reward deficit.
+</p>
 
 ### 3.3 Dual-System Model: Impulsivity vs Cognitive Control
-
+<p align="justify">
 This model describes an imbalance between fast, impulsive, reward driven systems (striatum, dopamine) and slower, reflective, executive control systems (prefrontal cortex). Adolescents and young adults are particularly sensitive to dopaminergic reward cues due to delayed maturation of prefrontal regulation. This framework explains why younger individuals and those high in impulsivity are at greater risk of engaging in substance use, especially for drugs that heavily influence the reward system.
 </p>
 
