@@ -82,14 +82,17 @@ python analysis.py
 
 ## 1. Introduction
 
+<p align="justify">
 Dopamine is critically involved in reward processing, reinforcement learning, and the attribution of motivational value to stimuli. Interindividual differences in dopaminergic functioning have been associated with behavioural traits such as impulsivity, sensation seeking, and reward sensitivity all of which contribute to vulnerability to substance use and addiction. Understanding how dopaminergic personality traits relate to drug-taking behaviours can inform early prevention, risk profiling, and neuropsychological models of addiction.
 
 This project aims to quantify dopaminergic trait expression and examine its relationship with substance use patterns in a non-clinical population sample. Both exploratory and predictive approaches were applied to assess whether individuals exhibiting dopaminergic behavioural phenotypes are more prone to experimenting with, or regularly using, psychoactive substances.
+</p>
 
 ---
 
 ## 2. Why This Project Matters
 
+<p align="justify">
 Addiction research increasingly requires approaches that integrate behavioural neuroscience with quantitative modelling. While neuroimaging has provided meaningful insights into dopaminergic functioning, scalable and non-invasive behavioural markers remain essential for early risk identification.
 
 This project is relevant because:
@@ -99,11 +102,13 @@ This project is relevant because:
 - It includes a multi-substance comparison, highlighting both behavioural and pharmacological differences in dopaminergic involvement.  
 - It contributes to the growing fields of computational psychiatry and neuroscience-informed data analysis.  
 - It provides a framework that can support prevention focused mental health strategies and early identification of at risk individuals.
+</p>
 
 ---
 
 ## 3. Scientific Background
 
+<p align="justify">
 Addiction has been consistently linked to dysregulation of dopaminergic circuits, particularly those connecting the **ventral tegmental area (VTA)**, **nucleus accumbens (NAcc)**, and the **prefrontal cortex (PFC)**. Three major theories provide a conceptual framework for understanding dopamine’s role in addictive processes.
 
 ### 3.1 Incentive Sensitization Theory (Robinson & Berridge)
@@ -117,6 +122,7 @@ Reward Deficiency Syndrome suggests that some individuals possess chronically re
 ### 3.3 Dual-System Model: Impulsivity vs Cognitive Control
 
 This model describes an imbalance between fast, impulsive, reward driven systems (striatum, dopamine) and slower, reflective, executive control systems (prefrontal cortex). Adolescents and young adults are particularly sensitive to dopaminergic reward cues due to delayed maturation of prefrontal regulation. This framework explains why younger individuals and those high in impulsivity are at greater risk of engaging in substance use, especially for drugs that heavily influence the reward system.
+</p>
 
 ---
 ## Dopaminergic Reward Pathway
