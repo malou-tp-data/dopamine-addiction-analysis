@@ -361,7 +361,7 @@ Collectively, the results suggest that cannabis use can be considered an early b
 
 ## 10. Relevance for AI and Neurotechnology Careers
 <p align="justify">
-The dopaminergic system provides a biological foundation for **reinforcement learning** in artificial intelligence. Understanding dopaminergic reward processing supports:
+The dopaminergic system provides a biological foundation for reinforcement learning in artificial intelligence. Understanding dopaminergic reward processing supports:
 
 - Development of biologically inspired AI models  
 - Improved reward based learning algorithms  
